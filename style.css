@@ -1,3 +1,44 @@
 body{
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Source Serif Pro', serif;
+    margin: 0%;
+}
+.flexible-content{
+    display: flex;
+    margin-bottom: 50px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 3%;
+}
+.half-width img{
+    width: 70%;
+}
+h1{
+    font-size: 60px;
+}
+.SandyBrown{
+    color: rgb(244, 164, 96);
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orangered, tomato);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px
+}
+#stay{
+   border-left: 4px solid;
+   border-image: linear-gradient(orangered, tomato);
+   border-image-slice: 1;
+}
+.stay-text{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.bottom{
+    margin-bottom: 5%;
+}
+.top{
+    margin-top: 7%;
 }
