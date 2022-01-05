@@ -80,13 +80,14 @@ h1{
     margin-bottom: 50px;
 }
 .width-six{
-    width: 45%;
+    width: 40%;
 }
 .width-six img{
-    width:90%;
+    width: 90%;
+    position: right;
 }
 .width-four{
-    width: 55%;
+    width: 60%;
     margin-top: 2%;
 }
 .up-down{
@@ -99,4 +100,11 @@ h1{
     background-position:left;
     background-size: 18%;
     background-position-x: 5%;
+}
+.global{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 15%;
+    margin-bottom: 50px;
 }
