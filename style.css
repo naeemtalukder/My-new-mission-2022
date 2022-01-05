@@ -111,9 +111,10 @@ h1{
 .global{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-position: right bottom;
     background-size: 15%;
     margin-bottom: 50px;
+    background-position-x: right;
+    background-position-y: bottom;
 }
 footer{
     padding-top: 25px;
