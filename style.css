@@ -34,6 +34,7 @@ body{
    border-bottom-left-radius: 5px;
    border-top-left-radius: 5px;
    box-sizing: border-box;
+   line-height: 70px;
 }
 .stay h1{
     font-size: 50px;
