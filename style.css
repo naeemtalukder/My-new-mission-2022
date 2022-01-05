@@ -42,3 +42,28 @@ h1{
 .top{
     margin-top: 7%;
 }
+#sion{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.width-three{
+    width: 30%;
+}
+.icon{width: 40%;}
+#frist{
+    background-color: lightslategrey;
+    border-radius: 10px;
+    padding: 2%;
+}
+#center{
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: honeydew;
+    border-radius: 10px;
+    padding: 2%;
+}
+#last{
+    background-color: lightpink;
+    border-radius: 10px;
+    padding: 2%;
+}
