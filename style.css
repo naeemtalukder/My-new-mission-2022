@@ -11,7 +11,7 @@ body{
     margin-left: 3%;
 }
 .half-width img{
-    width: 70%;
+    width: 80%;
 }
 .width-four h2{
     font-size: 45px;
@@ -31,7 +31,9 @@ body{
    border-left: 4px solid tomato;
    font-size: 60px;
    height: 135px;
-   border-radius: 5px;
+   border-bottom-left-radius: 5px;
+   border-top-left-radius: 5px;
+   box-sizing: border-box;
 }
 .stay h1{
     font-size: 50px;
@@ -131,7 +133,7 @@ footer h2{
     margin-bottom: 50px;
 }
 .width-half img{
-    width: 50%;
+    width: 80%;
     position: center;
 }
 .app{
