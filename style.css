@@ -68,12 +68,12 @@ h1{
 #center{
     margin-left: 2%;
     margin-right: 2%;
-    background-color: hsl(353, 100%, 95%);
+    background-color: 	hsl(329, 100%, 95%);
     border-radius: 15px;
     padding: 2%;
 }
 #last{
-    background-color: hsl(31, 84%, 90%);
+    background-color: hsl(38, 89%, 90%);
     border-radius: 15px;
     padding: 2%;
 }
@@ -122,4 +122,22 @@ footer{
 }
 footer h2{
     font-size: 30px;
+}
+.build{
+    display: flex;
+}
+.width-half{
+    width: 50%;
+    margin-bottom: 50px;
+}
+.width-half img{
+    width: 50%;
+    position: center;
+}
+.app{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#go{
+    margin-top: 40px;
 }
