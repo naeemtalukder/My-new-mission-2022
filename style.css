@@ -13,9 +13,6 @@ body{
 .half-width img{
     width: 70%;
 }
-h1{
-    font-size: 50px;
-}
 .width-four h2{
     font-size: 45px;
 }
@@ -33,6 +30,14 @@ h1{
 #stay{
    border-left: 4px solid tomato;
    font-size: 60px;
+   height: 135px;
+   border-radius: 5px;
+}
+.stay h1{
+    font-size: 50px;
+}
+h1{
+    font-size: 48px;
 }
 .stay-text{
     margin-left: 10%;
@@ -107,4 +112,14 @@ h1{
     background-position: right bottom;
     background-size: 15%;
     margin-bottom: 50px;
+}
+footer{
+    padding-top: 25px;
+    padding-bottom: 15px;
+    height: 130px;
+    background-color: rgb(4, 4, 19);
+    color: white;
+}
+footer h2{
+    font-size: 30px;
 }
