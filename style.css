@@ -47,23 +47,23 @@ h1{
     margin-right: 10%;
 }
 .width-three{
-    width: 30%;
+    width: 32%;
 }
-.icon{width: 40%;}
+.icon{width: 50%;}
 #frist{
-    background-color: lightslategrey;
+    background-color: hsl(215, 37%, 90%);
     border-radius: 10px;
     padding: 2%;
 }
 #center{
-    margin-left: 5%;
-    margin-right: 5%;
-    background-color: honeydew;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: hsl(353, 100%, 95%);
     border-radius: 10px;
     padding: 2%;
 }
 #last{
-    background-color: lightpink;
+    background-color: hsl(31, 84%, 90%);
     border-radius: 10px;
     padding: 2%;
 }
