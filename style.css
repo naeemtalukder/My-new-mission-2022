@@ -16,6 +16,9 @@ body{
 h1{
     font-size: 50px;
 }
+.width-four h2{
+    font-size: 45px;
+}
 .SandyBrown{
     color: rgb(244, 164, 96);
 }
@@ -48,7 +51,10 @@ h1{
 .width-three{
     width: 32%;
 }
-.icon{width: 50%;}
+.width-three img{
+    width: 50%;
+    position: left;
+}
 #frist{
     background-color: hsl(215, 37%, 90%);
     border-radius: 15px;
@@ -71,15 +77,17 @@ h1{
     display: flex;
     margin-left: 10%;
     margin-right: 10%;
+    margin-bottom: 50px;
 }
-.width-three{
+.width-six{
     width: 45%;
 }
-.width-three img{
+.width-six img{
     width:90%;
 }
 .width-four{
     width: 55%;
+    margin-top: 2%;
 }
 .up-down{
     margin-bottom: 7%;
@@ -88,6 +96,7 @@ h1{
 .develop{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-position: left;
-    background-size: 20%;
+    background-position:left;
+    background-size: 18%;
+    background-position-x: 5%;
 }
